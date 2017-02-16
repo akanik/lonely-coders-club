@@ -13,7 +13,8 @@ Skill sets vary among LCC members. This servers to enhance our discussions and e
 
 ## Also:
 “Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of discussions; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention.”
-Borrowed from [SRCCON/OpenNews code of conduct](http://srccon.org/conduct/)
+
+- Borrowed from [SRCCON/OpenNews code of conduct](http://srccon.org/conduct/)
 
 ## Invites
 Currently, invites are open! Share [this sign-up link](https://lcc-slack.herokuapp.com/) with anyone you know who’s interested and they can sign themselves up.
@@ -21,9 +22,9 @@ Currently, invites are open! Share [this sign-up link](https://lcc-slack.herokua
 ## Admins
 Group administrators are:
 
-Scott Pham - @scottpham
-Lindsey Cook - @lindzcook
-Alexandra Kanik - @akanik
+*Scott Pham - [@scottpham](https://twitter.com/scottpham)
+*Lindsey Cook - [@lindzcook](https://twitter.com/lindzcook)
+*Alexandra Kanik - [@akanik](https://twitter.com/act_rational)
 
 ## Reporting Incidents
 If you wish to report a violation of this Code of Conduct, you can get in touch with one of the group admins or [fill out this form](https://docs.google.com/a/rationalact.com/forms/d/e/1FAIpQLSfXPXUTLpTU-qYI7urcFoXFv3piyPX0SiDNS_zPiXi1XLe8bA/viewform). Form may be filled out anonymously.
