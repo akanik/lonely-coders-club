@@ -20,5 +20,5 @@ To report a violation of this code, participants should contact:
 
 * Alexandra Kanik (alexandra@rationalact.com)
 
-Participants may also submit an [incident report](https://docs.google.com/forms/d/e/1FAIpQLSc0ZARd1rnVb7uBE_j6XfQvP5jtF26HcnWYTt1B3pKBZeEkzw/viewform) online. Incident reports may be submitted anonymously. 
+Participants may also submit an [incident report](https://docs.google.com/a/rationalact.com/forms/d/e/1FAIpQLSfXPXUTLpTU-qYI7urcFoXFv3piyPX0SiDNS_zPiXi1XLe8bA/viewform) online. Incident reports may be submitted anonymously. 
 
