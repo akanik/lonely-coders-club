@@ -1,6 +1,7 @@
 Thanks to the amazing generousity of [OpenNews](https://www.opennews.org/), we will be holding the 3rd annual NICAR LCC Luncheon!
 
-If you want to attend this year, [please sign up here](https://docs.google.com/a/rationalact.com/forms/d/e/1FAIpQLSfAZa4kHBWsW24-GqrPPzoSkkRfbXXQjRoRD3EnoVNmGIl_ow/viewform).
+
+### If you want to attend this year, [please sign up here](https://docs.google.com/a/rationalact.com/forms/d/e/1FAIpQLSfAZa4kHBWsW24-GqrPPzoSkkRfbXXQjRoRD3EnoVNmGIl_ow/viewform).
 
 We haven't decided on a day or location yet. Your input will help us decide those things!
 
