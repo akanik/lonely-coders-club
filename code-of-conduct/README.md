@@ -8,9 +8,9 @@ The code can be read [here](code-of-conduct.md).
 
 ## LCC Codes of Conduct
 
-NICAR Luncheon Code of Conduct
+[General LCC Code of Conduct](https://github.com/akanik/lonely-coders-club/blob/master/code-of-conduct/general-conduct-2017.md)
 
-General LCC Code of Conduct
+[NICAR Luncheon Code of Conduct](https://github.com/akanik/lonely-coders-club/blob/master/code-of-conduct/luncheon-conduct-2017.md)
 
 ## Why another code of conduct template?
 
